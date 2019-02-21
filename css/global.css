@@ -1,0 +1,59 @@
+.img
+{
+    display: inline-block;
+    align-content: center;
+    list-style-type: none;
+    text-align: center;
+    height: 75px;
+    width: 75px;
+    padding: 10px;
+    border-radius: 30px;
+}
+.wrigley
+{
+    display: inline-block;
+    align-content: center;
+    list-style-type: none;
+    text-align: center;
+    height: 550px;
+    width: 800px;
+    padding: 10px;
+    border-radius: 30px;
+}
+footer{
+
+    display: inline-block;
+    margin: 0 0 0 0.6em;
+    padding: 0;
+    width: 100%;
+    text-align: center;
+    text-emphasis-style:  Bold;
+    padding: 1.5em 2.0em
+ 
+}
+.no-gutters {
+    margin-right: 0;
+    margin-left: 0;
+}   
+  
+.borders{
+    border-style:inset;
+    background-color:gray;
+ }
+ #img {
+    position: relative;
+    align-self: center;
+    Margin-Top: 10px;
+    width:  200px;
+    height: 200px;
+    
+}
+
+.rnded{
+    border-radius: 2%;
+    background-color: #e3f2fd;
+}
+.i-am-centered{
+    margin-left: 122px;
+
+}

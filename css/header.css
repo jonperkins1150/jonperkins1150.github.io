@@ -1,12 +1,18 @@
 h1{
-    color: white;
+    color: black;
     font-family: var(--font-one);
 }
 h2{
-    color: white;
+    color: black;
     font-family: var(--font-two);
 }
 h3{
     color: white;
     font-family: var(--font-three);
+}
+.tagline
+{
+    color: black;
+    font-family: var(--font-two);
+    font-size: 22pt;
 }
